@@ -1,0 +1,12 @@
+
+{
+    "server": {
+        "port": 3000,
+        "database":{
+            "host":"192.168.50.100",
+            "user": "root",
+            "password": "xxxx",
+            "WALL": "WALL"
+        }
+    }
+}
